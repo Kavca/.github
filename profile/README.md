@@ -4,6 +4,8 @@ See [kavca.no](https://kavca-homepage-blog.vercel.app/) for more info about Kavc
 
 <code>(Right-Click the link to open in new window)</code>
 
-Kavca at Github has repositories for AKM modelling projects.
+---
+
+***github.com/Kavca*** has repositories for AKM modelling projects.
 
 1. [osdu.akm.models] (/osdu.akm.models) 
