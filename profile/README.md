@@ -1,6 +1,6 @@
 # AKM Modelling Github repositories  by Kavca AS
 
-See ([kavca.no](https://kavca.no) {:target="_blank"} for more info about Kavca AS </a>
+See [kavca.no](https://kavca.no) {:target="_blank"} for more info about Kavca AS </a>
 
 Kavca at Github has repositories for AKM modelling projects.
 
