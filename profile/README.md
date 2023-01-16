@@ -8,4 +8,14 @@ See [kavca.no](https://kavca-homepage-blog.vercel.app/) for more info about Kavc
 
 ***github.com/Kavca*** has repositories for AKM modelling projects.
 
-1. [osdu.akm.models](https://github.com/Kavca/osdu-akm-models)
+## Startmodels and examplemodels: 
+
+- [kavca.akm.models](https://github.com/Kavca/kavca-akm-models)
+
+## OSDU examplemodels 
+
+- [osdu.akm.models](https://github.com/Kavca/osdu-akm-models)
+
+## Dementia project models
+
+- [kavca.dementia.models](https://github.com/Kavca/osdu-akm-models)
