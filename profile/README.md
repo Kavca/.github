@@ -3,10 +3,9 @@ Kavca AS
 # Active Knowledge Modelling (AKM)  
 
 This is the README.md file for [Kavca](https://kavca-homepage-blog.vercel.app/) AKM Modelling.
-Here you can find links to useful information about Active Knowledge Modelling.
+Here you can find links to useful information about Active Knowledge Modelling adn AKM Modeller.
 
 ## AKM Modelling course
-
 
 This repository contain training modules for AKM modelling.
 It will help you build an AKM Model and if you want you can submit it to our GitHub training repository.
